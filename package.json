@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.39"
+  },
+  "devDependencies": {
+    "mermaid": "^10.7.0",
+    "vitepress-plugin-mermaid": "^2.0.16"
+  }
+}
